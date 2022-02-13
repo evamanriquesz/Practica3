@@ -62,12 +62,12 @@ Para probar el correcto funcionamiento de la práctica:
   * Comprobar que al pasar el ratón por encima de los botones se cambian de color
   * Cambiar de página usando los botones superiores o el objeto de paginación inferior
 *En Iniciativas Sostenibles
-    * Deslizarte para ver todas las imágenes
-    * Pinchar en cualquiera de ellas para comprobar que se abre un Objeto Modal 
-    * Cerrar ese objeto
-    * Cambiar de página usando los botones superiores o el objeto de paginación inferior
-  * Contáctanos
-    * Rellenar el formulario
-    * Probar a equivocarse rellenando los campos para ver cómo te avisa
-    * Acceder a las redes sociales de cualquiera de las marcas
-    * Cambiar de página usando los botones superiores o el objeto de paginación inferior
+  * Deslizarte para ver todas las imágenes
+  * Pinchar en cualquiera de ellas para comprobar que se abre un Objeto Modal 
+  * Cerrar ese objeto
+  * Cambiar de página usando los botones superiores o el objeto de paginación inferior
+* Contáctanos
+  * Rellenar el formulario
+  * Probar a equivocarse rellenando los campos para ver cómo te avisa
+  * Acceder a las redes sociales de cualquiera de las marcas
+  * Cambiar de página usando los botones superiores o el objeto de paginación inferior
