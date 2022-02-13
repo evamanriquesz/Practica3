@@ -1,0 +1,46 @@
+.navbar navbar-expand-sm bg-success
+{
+    color: rgb(255,255,255);
+}
+li.nav-item
+{
+    font: 20px Candara, sans-serif;
+
+}
+
+ul.navbar-nav
+{
+    align:center;
+}
+
+img.d-block
+{
+    height:70vh;
+    width: 100vw;
+}
+
+div.row
+{
+    padding: 2vw;
+}
+
+img.pic-featurette
+{
+    width:40vw;
+    height: 50vh;
+}
+
+a.alert-link
+{
+    color: #767676;
+}
+
+h3.noticias
+{
+    font: 50px Candara, sans-serif;
+}
+
+p.noticias
+{
+        font: 20px Candara, sans-serif;
+}
